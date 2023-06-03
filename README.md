@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Homorkhay/Product_preview_code_component)
-- Live Site URL: [](https://homorkhay.github.io/Product_preview_code_component/)
+- Solution URL: (https://github.com/Homorkhay/Product_preview_code_component)
+- Live Site URL: (https://homorkhay.github.io/Product_preview_code_component/)
 
 ## My process
 
@@ -51,7 +51,7 @@ Happy to solve this project. Ive learnt images rsponsiveness, mobile responsiven
             src="images/image-product-desktop.jpg"
             alt="perfume product">
  
- This line of code actually helped a lot im my desktop image layout flow
+ This line of code actually helped a lot in my desktop image layout flow
  This also improved my image responsiveness
 
 ### Continued development
