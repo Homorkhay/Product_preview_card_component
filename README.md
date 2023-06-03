@@ -51,7 +51,7 @@ Happy to solve this project. Ive learnt images rsponsiveness, mobile responsiven
             src="images/image-product-desktop.jpg"
             alt="perfume product">
  
- This line of code actually helped a lot im my mobile layout flow
+ This line of code actually helped a lot im my desktop image layout flow
  This also improved my image responsiveness
 
 ### Continued development
