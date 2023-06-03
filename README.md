@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Homorkhay/Product_preview_code_component)
-- Live Site URL: (https://homorkhay.github.io/Product_preview_code_component/)
+- Solution URL: (https://github.com/Homorkhay/Product_preview_card_component)
+- Live Site URL: (https://homorkhay.github.io/Product_preview_card_component/)
 
 ## My process
 
